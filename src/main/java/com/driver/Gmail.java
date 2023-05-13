@@ -99,3 +99,4 @@ public class Gmail extends Email {
         return inboxCapacity;
     }
 }
+
